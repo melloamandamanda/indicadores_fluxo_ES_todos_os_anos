@@ -1,0 +1,1 @@
+criação de um banco de dados mysql com indicadores de fluxo da educação superior disponível em: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/indicadores-de-fluxo-da-educacao-superior
